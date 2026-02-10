@@ -1,3 +1,6 @@
+#YOU CAN EITHER RUN THE MAIN FILE OR YOU CAN RUN THIS DIRECTLY AS A NOT SPLITTED CODE
+
+
 # import sys
 # import multiprocessing
 # from PyQt5.QtWidgets import QApplication
